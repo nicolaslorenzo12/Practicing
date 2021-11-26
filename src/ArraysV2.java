@@ -11,8 +11,9 @@ public class ArraysV2 {
         suits[3] = new StringBuilder("spades");
 
         System.out.println("jajajajaaj");
+
+        System.out.println("Life is shit");
+
+        System.out.println("Maria Juana");
     }
-
 }
-
-
