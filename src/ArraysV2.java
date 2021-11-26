@@ -9,5 +9,10 @@ public class ArraysV2 {
         suits[1] = new StringBuilder("clubs");
         suits[2] = new StringBuilder("diamonds");
         suits[3] = new StringBuilder("spades");
+
+        System.out.println("jajajajaaj");
     }
+
 }
+
+
