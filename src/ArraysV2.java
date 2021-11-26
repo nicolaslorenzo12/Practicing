@@ -13,3 +13,4 @@ public class ArraysV2 {
         System.out.println("Life is shit");
     }
 }
+d
